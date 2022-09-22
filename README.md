@@ -2,7 +2,7 @@
 # 💫About Me :
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Front-End+Developer;"></p>
 
-🇻🇳 : I'm from VietNam
+
 🖥️ Website Developer
 
 ## 🌐Socials
