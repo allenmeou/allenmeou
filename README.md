@@ -1,9 +1,9 @@
 
-# 💫About Me :
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Front-End+Developer;"></p>
+<!-- # 💫About Me : -->
+<!-- <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Front-End+Developer;"></p> -->
 
 
-🖥️ Website Developer
+<!-- 🖥️ Website Developer -->
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/meodev.TranDinhHuy/) 
