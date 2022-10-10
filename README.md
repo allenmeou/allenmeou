@@ -1,6 +1,6 @@
 Hello
 
-I'm Daniel Huy. I'm a Programmer.
+I'm Huy. I'm a Programmer.
 
 You can follow me on: [Facebook](https://www.facebook.com/meodev.TranDinhHuy/)
 
