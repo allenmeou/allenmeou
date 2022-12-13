@@ -1,6 +1,5 @@
-Hello
 
-I'm Huy. I'm a Programmer.
+Hi, I'm Huy . 
 
 You can follow me on: [Facebook](https://www.facebook.com/meoudev.TranDinhHuy/)
 
