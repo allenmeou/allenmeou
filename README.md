@@ -9,6 +9,9 @@ You can follow me on: [Facebook](https://www.facebook.com/meoudev.TranDinhHuy/)
 
 
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytran105&theme=tokyonight&layout=compact&langs_count=6">
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
