@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src='https://github.com/olololoe110399/olololoe110399/blob/main/wolf.jpeg?raw=true' width='100%"'>
-</p>
+</p> -->
 
 Hi, I'm Huy . 
 
