@@ -4,7 +4,7 @@
 
 Hi, I'm Huy . 
 
-You can follow me on: [Facebook](facebook.com/allenmeow.TranDinhHuy/)
+You can follow me on: [Facebook](https://www.facebook.com/allenmeow.TranDinhHuy/)
 
 <!-- ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/meoudev.TranDinhHuy/)  -->
