@@ -25,6 +25,8 @@ You can follow me on: [Facebook](https://www.facebook.com/TranDinhHuy.dev/) - [I
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<a href="https://app.daily.dev/AllenMeoU"><img src="https://api.daily.dev/devcards/d4ab126252404f88a1b8fa9f743723c3.png?r=eys" width="200" alt="Tran Dinh Huy's Dev Card"/></a>
+
 
 
 
