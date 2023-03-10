@@ -10,7 +10,6 @@ You can follow me on: [Facebook](https://www.facebook.com/TranDinhHuy.dev/) - [I
 
 <!-- ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/meoudev.TranDinhHuy/)  -->
-<img src="https://komarev.com/ghpvc/?username=huytran105&color=blue">
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=allencat-tdh&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allencat-tdh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -23,9 +22,12 @@ You can follow me on: [Facebook](https://www.facebook.com/TranDinhHuy.dev/) - [I
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytran105&theme=tokyonight&layout=compact&langs_count=6"> -->
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=huytran105&color=blue">
 
-<a href="https://app.daily.dev/AllenMeoU"><img src="https://api.daily.dev/devcards/d4ab126252404f88a1b8fa9f743723c3.png?r=eys" width="200" alt="Tran Dinh Huy's Dev Card"/></a>
+
 
 
 
