@@ -6,7 +6,7 @@ Hello!
 
 I'm MeoU 
 
-You can follow me on: [Facebook](https://www.facebook.com/TranDinhHuy.dev/) - [Instagram](https://www.instagram.com/allen.meou/) - [Twitter](https://twitter.com/realallenmeou/)
+You can follow me on: [Facebook](https://www.facebook.com/TranDinhHuy.dev/)
 
 <!-- ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/meoudev.TranDinhHuy/)  -->
