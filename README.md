@@ -6,10 +6,8 @@ Hello!
 
 I'm MeoU 
 
-You can follow me on: [Facebook](https://www.facebook.com/TranDinhHuy.dev/)
 
-<!-- ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/meoudev.TranDinhHuy/)  -->
+
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=allencat-tdh&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allencat-tdh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -25,7 +23,7 @@ You can follow me on: [Facebook](https://www.facebook.com/TranDinhHuy.dev/)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=huytran105&color=blue">
+
 
 
 
