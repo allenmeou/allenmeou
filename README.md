@@ -1,32 +1,8 @@
-<!-- <p align="center">
-  <img src='https://github.com/olololoe110399/olololoe110399/blob/main/wolf.jpeg?raw=true' width='100%"'>
-</p> -->
+![](https://resources.iostream.vn/content/article/5f9444a8df7970e40a22e52c/resources/res-1603638634-1603638634601.gif)
 
 Hello there! 
 
-I'm MeoU 
-
-
-
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=allencat-tdh&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allencat-tdh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allencat-tdh&theme=tokyonight&layout=compact&langs_count=6"> -->
-
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytran105&theme=tokyonight&layout=compact&langs_count=6"> -->
-
+I'm Allen MeoU
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
-<br>
-<br>
-
-
-
-
-
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
