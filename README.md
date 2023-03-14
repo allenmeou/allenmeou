@@ -2,7 +2,7 @@
   <img src='https://github.com/olololoe110399/olololoe110399/blob/main/wolf.jpeg?raw=true' width='100%"'>
 </p> -->
 
-Hello! 
+Hello there! 
 
 I'm MeoU 
 
