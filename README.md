@@ -1,7 +1,7 @@
 
  <img height = '300px' src = "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Self-Taught+Developer)](https://git.io/typing-svg) <br>
+
 Hello there! 
 I'm Allen MeoU
 ### ✍️Random Dev Quote
