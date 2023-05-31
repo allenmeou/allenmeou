@@ -1,5 +1,5 @@
 
- <img height = '300px' src = "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif">
+ <img height = '200px' src = "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif">
 
 
 - 👋 Hi, I’m Allen MeoU
