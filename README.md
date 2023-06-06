@@ -10,3 +10,4 @@
 
 
 ## [Frontend Mentor](https://www.frontendmentor.io/profile/allencat-tdh)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenmeou&theme=tokyonight&layout=compact&langs_count=6">
