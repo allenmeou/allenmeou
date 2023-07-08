@@ -12,7 +12,6 @@ I’m currently learning a lot of stuff 」<br>
       
    
 
-  <img src="https://github-readme-stats.vercel.app/api?username=allenmeou&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenmeou&theme=darcula&layout=compact&langs_count=6">
   <br>
   
