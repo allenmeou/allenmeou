@@ -16,6 +16,8 @@ I’m currently learning a lot of stuff 」<br>
   <br>
   
  <a href="https://github.com/allenmeou?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/realallenmeou)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/allenmeou/)
      <a href="https://github.com/allenmeou" target="_blank"><img alt="allenmeou" src="https://badges.pufler.dev/visits/allenmeou/allenmeou?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/allenmeou/allenmeou" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/allenmeou/allenmeou?label=profile%20updated&style=flat-square"></a>
   </samp>
