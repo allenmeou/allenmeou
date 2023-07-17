@@ -1,5 +1,5 @@
 
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer href="github.com/allenmeou">Allen MeoU</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b> Allen MeoU</b></samp></h3>
 <p align="center"><br>
   <samp>
     「I’m interested in Coding, Video Games, Legos!
