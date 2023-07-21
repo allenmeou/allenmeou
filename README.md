@@ -7,6 +7,7 @@ I’m currently learning a lot of stuff 」<br>
   </samp>
 </p>
 <details align="center">
+
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
       
@@ -23,7 +24,7 @@ I’m currently learning a lot of stuff 」<br>
      <a href="https://github.com/allenmeou/allenmeou" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/allenmeou/allenmeou?label=profile%20updated&style=flat-square"></a> 
      <br>
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-     
+       <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--jbblUf9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twxlvixc93j8vmm4zp53.gif'>
   </samp>
   </p>
 </details>
