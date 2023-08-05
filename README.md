@@ -22,7 +22,7 @@ I’m currently learning a lot of stuff 」<br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/allenmeou/)
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-       <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--jbblUf9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twxlvixc93j8vmm4zp53.gif'>
+       
   </samp>
   </p>
 </details>
