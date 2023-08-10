@@ -17,10 +17,7 @@ I’m currently learning a lot of stuff 」<br>
   <br>
   
 
- [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebookr&logoColor=white&color=1CA2F1)](https://facebook.com/allenmeou)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/realallenmeou)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/allenmeou/)
-
+=
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
        
   </samp>
