@@ -17,7 +17,7 @@ I’m currently learning a lot of stuff 」<br>
   <br>
   
 
-=
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
        
   </samp>
