@@ -13,7 +13,7 @@ I’m currently learning a lot of stuff 」<br>
       
    
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenmeou&theme=darcula&layout=compact&langs_count=6"> 
+ 
   <br>
   
 
